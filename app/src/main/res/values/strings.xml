@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">PasswordVault</string>
-    <string name="PassEnter">Please enter Password</string>
+    <string name="PassEnter">Please enter your Password</string>
     <string name="submitButton">Submit</string>
 </resources>
